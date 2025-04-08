@@ -1,0 +1,43 @@
+## 📌 TODO / Roadmap
+
+### 🎮 Gameplay Features
+- [ ] Add dynamic difficulty scaling (reactive to player stats)
+- [ ] Include different target types (moving, shrinking, disappearing)
+- [ ] Implement "flick shot" challenge mode
+- [ ] Create custom training presets (speed, size, time limit)
+
+### 📈 Stats & Analytics
+- [ ] Add in-app chart visualizations (D3.js or Chart.js)
+- [ ] Save multiple sessions & show trends over time
+- [ ] Include leaderboard mode (optional local or online)
+- [ ] Add accuracy heatmap to show target zones
+
+### 🖥 UI/UX Enhancements
+- [ ] UI scaling for ultrawide and 4K support
+- [ ] Dark/Light theme toggle
+- [ ] Background blur effects during focus mode
+- [ ] Add keyboard shortcuts for quick access
+
+### 🔉 Accessibility & Audio
+- [ ] Add voice cues for training mode ("Ready", "Good Shot", etc.)
+- [ ] Sound toggle & volume slider
+- [ ] High-contrast mode for visually impaired users
+
+### ⚙️ Settings & Config
+- [ ] Add settings panel (speed, target size, sound, etc.)
+- [ ] Allow exporting and importing custom presets
+- [ ] Save preferences between sessions
+- [ ] Gamepad or controller support
+
+### 🧪 Developer / Community
+- [ ] Write unit tests for stat tracking and event handling
+- [ ] Add translation/localization support (i18n)
+- [ ] Modularize code for contributors
+- [ ] Publish pre-built installers (.exe, .dmg, .AppImage)
+
+---
+
+Placed here 2025-04-08
+
+Want to contribute or suggest new ideas?  
+Open a [GitHub issue](https://github.com/YOUR_USERNAME/fps-mouse-trainer/issues) or submit a pull request!
