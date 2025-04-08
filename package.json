@@ -1,0 +1,12 @@
+{
+  "name": "fps-mouse-trainer",
+  "version": "0.0.1",
+  "description": "FPS trainer made by CrypticTM (Tristan)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^29.0.0"
+  }
+}
