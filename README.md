@@ -47,3 +47,10 @@ npm start
 
 
 Creator: CrypticTM (Tristan)
+
+```
+📄 License
+
+MIT License © 2025 — CrypticTM
+Feel free to fork, remix, and improve it. Credit appreciated but not required.
+
